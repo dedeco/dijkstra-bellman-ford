@@ -39,4 +39,4 @@ Rode o script abaixo para calcular os caminhos minimos com pesos negativos:
     ![Grafo adptado Comern](https://raw.githubusercontent.com/dedeco/dijkstra-bellman-ford/master/grafos-imagens/teste_cormen_bford.png)
 
 
-Eu desenvolvi o mesmo algoritmo em C#. Veja aqui> https://github.com/dedeco/dijkstra-bellman-ford
+Eu desenvolvi o mesmo algoritmo em C#. Veja aqui> https://github.com/dedeco/dijkstra-bellman-ford-csharp
