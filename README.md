@@ -11,14 +11,14 @@ Rode o script abaixo para calcular os caminhos minimos:
     ```
     ![Grafo adptado Comern](https://raw.githubusercontent.com/dedeco/dijkstra-bellman-ford/master/grafos-imagens/teste_cormen_djt.png)
 
-* Rode o grafo abaixo de exemplo das aulas do prof. Fernando Lobo da universidade Algarve in Portugal:
+* Rode o script abaixo para calcular os caminhos mínimos para exemplo das aulas do prof. Fernando Lobo da universidade Algarve in Portugal:
 
     ```
     python teste_lobo_djt.py
     ```
     ![Grafo lobo](https://raw.githubusercontent.com/dedeco/dijkstra-bellman-ford/master/grafos-imagens/teste_lobo_djt.png)
 
-* Rode o grafo abaixo criado por mim para testar 
+* Rode o script para calcular os caminhos mínimos para o exemplo abaixo criado por mim
     ```
     python teste_proprio_djt.py
     ```
@@ -37,3 +37,6 @@ Rode o script abaixo para calcular os caminhos minimos com pesos negativos:
     python teste_cormen_bford.py
     ```
     ![Grafo adptado Comern](https://raw.githubusercontent.com/dedeco/dijkstra-bellman-ford/master/grafos-imagens/teste_cormen_bford.png)
+
+
+Eu desenvolvi o mesmo algoritmo em C#. Veja aqui> https://github.com/dedeco/dijkstra-bellman-ford
